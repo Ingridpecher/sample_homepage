@@ -13,4 +13,3 @@
  
 ### Analytics und github-pages verbinden:
  * http://stackoverflow.com/questions/17207458 (am Ende des Heads in html-Seiten einbauen)
- * 
