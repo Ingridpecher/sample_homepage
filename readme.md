@@ -8,7 +8,7 @@
  
 ## Analyse:
  * http://analytics.google.com 
- * http://goo.gl (http://goo.gl/RU1hWa = short URL zum posten; +mini-analytics auf Seite)
+ * http://goo.gl (http://goo.gl/RU1hWa = short URL zum posten; +mini-analytics auf goo.gl)
  * http://www.alexa.com (site rank; Konkurenzanalyse)
  
 ### Analytics und github-pages verbinden:
