@@ -7,10 +7,10 @@
  * 
  
 ## Analyse:
- * http://analytics.google.com
+ * http://analytics.google.com 
  * http://goo.gl
- * 
+ * http://www.alexa.com (site rank)
  
 ### Analytics und github-pages verbinden:
- * http://stackoverflow.com/questions/17207458
+ * http://stackoverflow.com/questions/17207458 (am Ende des Heads in html-Seiten einbauen)
  * 
