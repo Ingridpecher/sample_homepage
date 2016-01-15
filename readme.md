@@ -9,3 +9,8 @@
 ## Analyse:
  * http://analytics.google.com
  * http://goo.gl
+ * 
+ 
+### Analytics und github-pages verbinden:
+ * http://stackoverflow.com/questions/17207458
+ * 
